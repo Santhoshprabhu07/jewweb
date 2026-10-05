@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Fine Gold | Haute Joaillerie Catalogue",
+  "description": "Exquisite fine gold jewellery catalogue featuring handcrafted 22K and 18K necklaces, kadas, earrings, and rings with verified approx weights and transparent valuations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
